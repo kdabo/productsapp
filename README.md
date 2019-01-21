@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 Clone, setup, and run the project
 
 - `git clone https://github.com/kdabo/productsapp.git`
-- `cd shopping-cart-app`
+- `cd productsapp`
 - `yarn`
 - `yarn start`
 
